@@ -1,0 +1,8 @@
+{
+    "require": {
+        "laminas/laminas-code": "^4.13"
+    },
+    "require-dev": {
+        "symfony/maker-bundle": "^1.51"
+    }
+}
