@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "glob-all": "^3.3.1",
+    "path": "^0.12.7",
+    "postcss-loader": "^7.3.3",
+    "purgecss-webpack-plugin": "^5.0.0",
+    "tailwindcss": "^3.3.5"
+  },
+  "dependencies": {
+    "asset": "^0.4.13",
+    "assets": "^3.0.1"
+  }
+}
